@@ -5,4 +5,4 @@ https://felixapplab.shinyapps.io/hollywood/
 
 Beware, it's not the prettiest code.
 
-![Alt text](meme.jpg?raw=true "Felix' Shiny App")
+![Alt text](meme/meme.jpg?raw=true "Felix' Shiny App")
